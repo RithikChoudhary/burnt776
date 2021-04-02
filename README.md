@@ -1,10 +1,11 @@
+
 # Hi there 👋
 ### I am Rithik Choudhary Pursuing B.tech  in Computer Science Engineering with specialization in DevOps at UPES, Dehradun
 
 
+![](https://github-readme-stats.vercel.app/api?username=burnt776&show_icons=true&line_height=30)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=burnt776&show_icons=true&theme=dark)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=burnt776&layout=compact&theme=dark)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=burnt776&" /></p>
 
 # Follow me on
 <a href="https://twitter.com/Rithik37231520">
@@ -27,6 +28,6 @@
 
 
 ### Thank you! for visiting my profile :blush:
- <a href="https://github.com/burnt776/github-profile-views-counter">
+ <a href="https://github.com/sumyak/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=burnt776">
 </a>
